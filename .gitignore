@@ -1,0 +1,12 @@
+# Visual Studio Solution/Project Files 
+*sln 
+*vcxproj*   
+
+# Debug files
+Debug/
+
+# SDL DLLs 
+SDL2.dll  
+
+# Visual Studio cache/options directory 
+.vs/

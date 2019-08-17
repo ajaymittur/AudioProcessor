@@ -1,4 +1,4 @@
 # AudioProcessor
 
-[x] Project setup
-[] Play test song
+- [x] Project setup
+- [x] Play test song

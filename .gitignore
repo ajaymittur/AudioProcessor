@@ -10,3 +10,6 @@ SDL2.dll
 
 # Visual Studio cache/options directory 
 .vs/
+
+# Test audio files
+assets/

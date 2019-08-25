@@ -1,10 +1,6 @@
 #include <iostream>
 #include <SDL.h>
 
-#define AUDIO_COMPLETE "assets/Uber_Everywhere.wav"
-#define AUDIO_TRAVIS "assets/Uber_Everywhere_Travis.wav"
-#define AUDIO_MADEINTYO "assets/Uber_Everywhere_MadeinTYO.wav"
-
 using namespace std;
 
 struct AudioData {

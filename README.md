@@ -11,3 +11,9 @@ Done by `void ChangePitch(void *userdata, Uint8 *stream, Uint32 length)`
  - `userdata` cast into user defined structure `AudioData` which allows storage of required data such as position of current sample, desired pitch and total length of the audio.
  - `volume` assumed to be 100, but can be taken as user input also by adding a volume member to `AudioData`.
  - pitch is changed in the for loop and data from audio sample is copied to the output stream.
+
+# Usage
+Build the cpp file and run it using the command `nameofexe [absolute filepath of wav file] [factor to increase pitch]`
+
+# Dependencies
+**SDL2.dll** is required to run the program

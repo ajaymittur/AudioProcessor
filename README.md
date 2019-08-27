@@ -1,5 +1,5 @@
 # AudioProcessor
-Program to change the **pitch** of a **WAV** audio file as required by the user.
+Basic program to change the **pitch** of a **WAV** audio file as required by the user.
 
 # Library 
 - Simple Direct Media Layer (SDL)
